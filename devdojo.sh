@@ -8,7 +8,7 @@
 #   Value of input argument
 # Returns:
 #   0 if successful, non-zero on error.
-#######################################
+########################################
 function hello() {
     echo "Hello $1!"
 }
