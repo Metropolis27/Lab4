@@ -10,7 +10,7 @@ function function_name() {
     your_commands
 }
 
-#Define the function
+# Define the function
 function memory_check() {
     echo ""
 	echo "The current memory usage on ${server_name} is: "
