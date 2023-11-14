@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###
+##
 # BASH script that checks:
 #   - Memory usage
 #   - CPU load
